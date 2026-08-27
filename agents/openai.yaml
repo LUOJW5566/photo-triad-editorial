@@ -1,0 +1,5 @@
+interface:
+  display_name: "Photo Triad Editorial"
+  short_description: "Fuse photos with isometric 3D pixel abstractions."
+  default_prompt: "Use $photo-triad-editorial fuse this uploaded photo into one spacious vertical diptych: preserve the upper photo as documentary evidence, and build one lower source-derived panel that unifies isometric structure, restrained 3D volume, and coarse pixel articulation. Add only a small lower-left date and 1–3 word theme if text is allowed."
+
